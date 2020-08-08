@@ -12,4 +12,5 @@ This script has been written after the [Logjam attack](https://weakdh.org/)
  
  **Note**
  
- For older Openssh version, the two commands using _ssh-keygen_ have to be updated with respect to the associated documentation.
+ 1. For older Openssh version, the two commands using _ssh-keygen_ have to be updated with respect to the associated documentation.
+ 2. It may be wise to run this script either in a folder mounted as a tmpfs or an encrypted folder
